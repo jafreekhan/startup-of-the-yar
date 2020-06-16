@@ -1,2 +1,2 @@
-# startup-of-the-yar
+# startup-of-the-year
 Zero to Mastery Startup page
